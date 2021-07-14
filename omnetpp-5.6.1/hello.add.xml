@@ -1,0 +1,4 @@
+<additional>
+    <parkingArea id="pa0" lane="2to3_0" startPos="80" endPos="90" roadsideCapacity="5" angle="0" length="10"/>
+</additional>
+
