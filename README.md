@@ -7,6 +7,9 @@ Paper link: https://ieeexplore.ieee.org/abstract/document/9524950
 Authors: 
 
 Haya Elayan, xAnalytics Inc., Ottawa, ON, Canada. E-mails: h.elayan@xanalytics.ca
+
 Moayad Aloqaily, Qatar University, Doha, Qatar. E-mail: maloqaily@ieee.org
+
 Haythem Bany Salameh, Al Ain University, UAE. E-mail: haythem.banysalameh@aau.ac.ae
+
 Mohsen Guizani, Qatar University, Doha, Qatar. E-mail: mguizani@ieee.org
