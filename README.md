@@ -8,8 +8,6 @@ Authors:
 
 Haya Elayan, xAnalytics Inc., Ottawa, ON, Canada. E-mails: h.elayan@xanalytics.ca
 
-Moayad Aloqaily, Qatar University, Doha, Qatar. E-mail: maloqaily@ieee.org
+M. Aloqaily and M. Guizani are with the Machine Learning Department, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE.
 
 Haythem Bany Salameh, Al Ain University, UAE. E-mail: haythem.banysalameh@aau.ac.ae
-
-Mohsen Guizani, Qatar University, Doha, Qatar. E-mail: mguizani@ieee.org
